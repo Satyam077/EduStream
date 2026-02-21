@@ -1,0 +1,2 @@
+# EduStream
+School Management System
